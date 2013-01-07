@@ -1,0 +1,55 @@
+Lecture on java basic on 12.25.12(website: WebServiceX.net,cdyne.com),Webservice,service orienter structure,Xml blocking
+WSDL=is the url part
+UDDI=
+
+
+
+
+OBJECTUVES
+SOA Web Service Overview
+1.INtroduction to SOA Web service
+2. XML,XSD, and Schema Validation
+3. SOAP
+4. WSDL
+5.UDDI
+
+Pillars of SOA testing:
+> Performance metrics for Web Service LOad
+>Latency: Lateness due to any communication error.
+>Concurrency: The maintenace of the same speed and level.
+>Throughput: The speed of the network vendor.
+>Error Detection and Analysis: 
+
+Get clear idea with: Concept of Internet and Intranet,What is a network?,Bipolar activity.
+
+More about SOA Testing:
+>Compliance InterOperatabilty Compliance: 
+>WS-I Basic Profiles.
+>Design Time Compliance: 
+>Run time compliance
+>Governance: it is the total quantity of the services in a company to maintain communications.
+>Compliance Violation Detection
+
+
+Web Servie hands on(software to download : soaUI)
+
+>Hands on lab
+>Test case for web service
+
+
+Web Service Basics
+>xml: Extensible markup language
+>Soap: Simple Object Access Protocol
+>WSDL: 
+>UDDI
+
+Standards Used in Web Service:
+>XML: Structured seld-describing way to present data totally independent of application present data totally independent of application,protocol, Operating system,or programing language.
+>Soap: Used to transport XML documents (Request and transport) from one computer to another
+>
+>
+
+
+Key Concept of XML
+1. XML is 
+

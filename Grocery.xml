@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<GroceryList>
+		<DryFoods>
+				<Rice>Basmoti</Rice>
+				<Qt>2 Bag</Qt>
+		
+		</DryFoods>
+		<FrozenFood>
+				<Fish>Salmon</Fish>
+				<Qt>1.5 lbs</Qt>
+		
+		</FrozenFood>
+		<Fruits>
+				<Apple>Green</Apple>
+				<Qt>1.5 lbs</Qt>
+		
+		</Fruits>
+</GroceryList>
